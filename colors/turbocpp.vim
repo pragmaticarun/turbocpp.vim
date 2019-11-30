@@ -112,7 +112,7 @@ if &t_Co > 255
    hi CursorColumn                ctermbg=236   cterm=bold
    hi ColorColumn                 ctermbg=20    cterm=bold
    hi LineNr          ctermfg=0   ctermbg=81    cterm=bold
-   hi NonText         ctermfg=88                cterm=bold
+   hi NonText         ctermfg=51               cterm=bold
 
    hi SpecialKey      ctermfg=59                cterm=bold
 
