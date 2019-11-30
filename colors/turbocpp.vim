@@ -28,12 +28,12 @@ if &t_Co > 255
    hi Normal          ctermfg=251 ctermbg=19    cterm=bold 
    hi CursorLine      ctermfg=16  ctermbg=226   cterm=bold
    hi CursorLineNr    ctermfg=0                 cterm=bold
-   hi Boolean         ctermfg=1                 cterm=bold
+   hi Boolean         ctermfg=190                 cterm=bold
    hi Character       ctermfg=226               cterm=bold
-   hi Number          ctermfg=1                 cterm=bold
+   hi Number          ctermfg=190                 cterm=bold
    hi String          ctermfg=82                cterm=bold
    hi Conditional     ctermfg=161               cterm=bold
-   hi Constant        ctermfg=1                 cterm=bold
+   hi Constant        ctermfg=190                 cterm=bold
    hi Cursor          ctermfg=16  ctermbg=253   cterm=bold
    hi Debug           ctermfg=225               cterm=bold
    hi Define          ctermfg=81                cterm=bold
