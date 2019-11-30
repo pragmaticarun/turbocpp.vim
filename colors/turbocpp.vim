@@ -50,7 +50,7 @@ if &t_Co > 255
    hi Ignore          ctermfg=244 ctermbg=232   cterm=bold
    hi IncSearch       ctermfg=193 ctermbg=16    cterm=bold
 
-   hi keyword         ctermfg=161               cterm=bold
+   hi keyword         ctermfg=93               cterm=bold
    hi Label           ctermfg=229               cterm=bold
    hi Macro           ctermfg=193               cterm=bold
    hi SpecialKey      ctermfg=81                cterm=bold
